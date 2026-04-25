@@ -1,0 +1,16 @@
+name: Repo.AGI.T2M-Versatil
+id: ari:cloud:compass:06b1f601-7439-4e2a-afac-fed0c1d5a3dc:component/20fdc381-286b-4e23-8a2a-e628d96bb4e4/53be4d55-9642-4c8a-901e-cc4034d9fbb8
+description: Each AI agent has a unique identifier registered on the Ethereum Name Service Onchain recording of cryptographic hashes for operation implementing a multifactor verification system
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/TA2MA-Dev/Repo.AGI.T2M-Versatil
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
